@@ -1,3 +1,3 @@
 # GIT AND GITHUB COURSE
 
-Crash course for GGIT STATUS it
+Crash course for GGIT STAT 
